@@ -15,4 +15,4 @@ My name is Shahin Ansari. I am an AI engineer based out of Norther Virginia pass
 - 📫 How to reach me: monazzam@protonmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am also a licensed real estate agent, I was an instructor for over two years at a Community College. I have intimate familiarity with Health related organizations due to working at a very large hospital right after graduating from George Mason University. My BS is in Biology, and MS in Telecommunications.
-- The public repositories pined to my profile are implementations of verious algorithms like A*, FordFulkerson, and others. The code is fully tested by a third party, and I am glad to discuss any part of it. 
+- The public repositories pined to my profile are implementations of verious algorithms like A*, FordFulkerson, Graphs, and others. The code is fully tested by a third party, and I am glad to discuss any part of it. 
