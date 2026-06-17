@@ -4,14 +4,15 @@ My name is Shahin Ansari. I am an AI engineer based out of Norther Virginia pass
 -   Shall we train our own model vs. API
 -   Which model to pick
 -   How do we evaluate efficacy of a solution for our business case? which metrics do we use and how do we map them to business requirments? 
--   RAG vs. Agent
+-   RAG vs. Agent vs. fine tunning
 -   How much is the cost of implmenting, and maintaining a solution?
 -   How do we address Governance and privacy?
 -   How much hardware do we need? 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🌱 I’m currently learning anything and everything
+- 👯 I’m looking to collaborate on anything technology related
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ..i.
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💬 Ask me about 
+- 📫 How to reach me: monazzam@protonmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I am also a licensed real estate agent, I was an instructor for over two years at a Community College. I have intimate familiarity with Health related organizations due to working at a very large hospital right after graduating from George Mason University. My BS is in Biology, and MS in Telecommunications.
+- The public repositories pined to my profile are implementations of verious algorithms like A*, FordFulkerson, and others. The code is fully tested by a third party, and I am glad to discuss any part of it. 
