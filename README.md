@@ -11,7 +11,7 @@ My name is Shahin Ansari. I am an AI engineer based out of Norther Virginia pass
 - 🌱 I’m currently learning anything and everything
 - 👯 I’m looking to collaborate on anything technology related
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about 
+- 💬 Ask me about adding AI solutions to your business. If it is the right move and right time.
 - 📫 How to reach me: monazzam@protonmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am also a licensed real estate agent, I was an instructor for over two years at a Community College. I have intimate familiarity with Health related organizations due to working at a very large hospital right after graduating from George Mason University. My BS is in Biology, and MS in Telecommunications.
