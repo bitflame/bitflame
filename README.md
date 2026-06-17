@@ -38,10 +38,6 @@ Tools: Docker, Prometheus, Grafana, Git, Linux
 📚 Currently Learning
 Karpathy’s Neural Networks: Zero to Hero
 
-AI system design patterns
-
-LeetCode Top 150 (solving in Python, Go, JavaScript, Java, and C++)
-
 🤝 Collaboration
 I’m open to collaborating on AI engineering, backend systems, and applied machine learning projects.
 
