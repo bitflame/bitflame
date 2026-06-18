@@ -1,13 +1,17 @@
-👋 Hi, I’m Shahin Ansari
-AI Engineer | Multi‑language Developer | End‑to‑End Systems Builder  
-Based in Northern Virginia — open to relocation.
+👋 Hi, I'm Shahin Ansari
 
-I build production‑grade AI systems: agents, analytics pipelines, cloud deployments, and multi‑service architectures. I enjoy working across Python, Go, JavaScript, Java, and C++, and I love designing systems that solve real business problems.
+AI Engineer | Cloud Engineer | Agentic Systems Builder
+
+I build production-grade AI applications, cloud-native platforms, and observability-driven systems. My work spans LLM agents, backend services, cloud infrastructure, and the operational tooling required to deploy and monitor AI solutions in real-world environments.
+
 
 🚀 Featured Project: GTM AI Agent
-A fully deployed AI agent with multi‑model support, analytics, and modular architecture.
 
-🔗 Live Demo: https://gtmclient-production.up.railway.app/  
+A deployed agentic AI application for company research and outreach generation. Built using Django, LangChain, Groq, Llama 3, and a Go-based observability sidecar with Prometheus and Grafana integration.
+
+🔗 Live Demo: https://gtmclient-production.up.railway.app/
+🔒 Source Code: Private, available for discussion with hiring teams.
+
 🔒 Source Code: Private, but available upon request
 Tech: Python, LangChain, Groq, Go, JavaScript, Django, Microservices, Llama, Docker, Prometheus, Grafana
 
@@ -28,12 +32,25 @@ Governance, privacy, and compliance
 
 Infrastructure sizing and cost modeling
 
+Core Areas
+
+• Agentic AI Systems
+• LLM Applications
+• Prompt Engineering
+• RAG Architectures
+• AI Evaluation & Observability
+• Cloud-Native Deployment
+• Backend Development
+• Distributed Systems
+
 🛠️ Tech Stack
-Languages: Python, Go, JavaScript, Java, C++
+
 AI/LLM: Groq, LangChain, OpenAI, Anthropic, Llama, RAG
 Backend: Django, FastAPI, Node.js
 Cloud: AWS (Elastic Beanstalk, S3, Athena), Railway
 Tools: Docker, Prometheus, Grafana, Git, Linux
+Observability: Prometheus, Grafana
+Languages: Python, Go, JavaScript, Java, C++
 
 📚 Currently Learning
 Karpathy’s Neural Networks: Zero to Hero
