@@ -9,7 +9,7 @@ I build production-grade AI applications, cloud-native platforms, and observabil
 
 A deployed agentic AI application for company research and outreach generation. Built using Django, LangChain, Groq, Llama 3, and a Go-based observability sidecar with Prometheus and Grafana integration.
 
-🔗 Live Demo: https://gtmclient-production.up.railway.app/
+🔗 Live Demo: https://personal-site-841627034350.us-central1.run.app/
 
 
 🔒 Source Code: Private, but available upon request
